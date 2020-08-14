@@ -43,75 +43,75 @@ def index():
        color: #1d1d1d;
        margin-bottom: 50px;
    }
-td {
-    padding: 5px;
-    color: #495057;
-    background-color: #fefefe;
-    padding: .75rem;
-    vertical-align: top;
-    border-top: 1px solid #dee2e6;
-}
-th{
+    td {
+        padding: 5px;
+        color: #495057;
+        background-color: #fefefe;
+        padding: .75rem;
+        vertical-align: top;
+        border-top: 1px solid #dee2e6;
+    }
+    th{
 
-    color: #fff;
-    background-color: #212529;
-    border-color: #32383e;
-    padding: .75rem;
-    vertical-align: top;
-}
-table {
-    border-collapse: collapse;
-    border-spacing: 0px;
-}
+        color: #fff;
+        background-color: #212529;
+        border-color: #32383e;
+        padding: .75rem;
+        vertical-align: top;
+    }
+    table {
+        border-collapse: collapse;
+        border-spacing: 0px;
+    }
    </style>
 </head>
 
 <body style="width: 880px; margin: auto;">  
-    <div class="content">
-<h1>Simple Flask Rest API</h1>
+<div class="content">
+    <h1>Simple Flask Rest API</h1>
     <table>
-  <colgroup>
-    <col class="column1">
-    <col class="columns2plus3" span="2">
-  </colgroup>
-  <tr>
-    <th>Index</th>
-    <th>Route</th>
-    <th>Method</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-  <td>1</td>
-    <td>/api/tasks</td>
-    <td>GET</td>
-    <td>Get all tasks</td>
-  </tr>
-  <tr>
-  <td>2</td>
-    <td>/api/task/:code</td>
-    <td>GET</td>
-    <td>Get one task</td>
-  </tr>
-  <tr>
-  <td>3</td>
-    <td>/api/task</td>
-    <td>POST</td>
-    <td>Add one task</td>
-  </tr>
-  <tr>
-  <td>4</td>
-    <td>/api/task/:code</td>
-    <td>PUT</td>
-    <td>Edit one task</td>
-  </tr>
-  <tr>
-  <td>5</td>
-    <td>/api/task/:code</td>
-    <td>DELETE</td>
-    <td>Delete one task</td>
-  </tr>
-</table>
-    </div>
+    <colgroup>
+        <col class="column1">
+        <col class="columns2plus3" span="2">
+    </colgroup>
+    <tr>
+        <th>Index</th>
+        <th>Route</th>
+        <th>Method</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+    <td>1</td>
+        <td>/api/tasks</td>
+        <td>GET</td>
+        <td>Get all tasks</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>/api/task/:code</td>
+        <td>GET</td>
+        <td>Get one task</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>/api/task</td>
+        <td>POST</td>
+        <td>Add one task</td>
+    </tr>
+    <tr>
+    <td>4</td>
+        <td>/api/task/:code</td>
+        <td>PUT</td>
+        <td>Edit one task</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>/api/task/:code</td>
+        <td>DELETE</td>
+        <td>Delete one task</td>
+    </tr>
+    </table>
+</div>
     <div class="background">
         <img src="https://s3.eu-central-1.wasabisys.com/devonilx7/2020/04/swirls-abstract-4k-hd-wallpaper-scaled.jpg" />
     </div>
