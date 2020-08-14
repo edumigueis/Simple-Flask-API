@@ -12,8 +12,12 @@ First, download the project and:
 ```sh
 cd simple-flask-API
 ```
-
-Check if you have python installed in your computer. Then:
+Check if you have python and pip installed in your computer. Then you have to create a virtual environment to run flask.
+```sh
+pip install flask
+py -m venv venv
+```
+Then:
 
 ```sh
 flask run
