@@ -74,7 +74,7 @@ table {
 
 <body style="width: 880px; margin: auto;">  
     <div class="content">
-<h1>Simple Flask Rest API aaaaaaaaaaaa</h1>
+<h1>Simple Flask Rest API</h1>
     <table>
   <colgroup>
     <col class="column1">
