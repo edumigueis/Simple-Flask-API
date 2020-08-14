@@ -63,12 +63,6 @@ table {
     border-collapse: collapse;
     border-spacing: 0px;
 }
-@media only screen and (max-width: 700px){
-    .background img{
-       object-fit: contain;
-       height: 100%;
-   }
-}
    </style>
 </head>
 
