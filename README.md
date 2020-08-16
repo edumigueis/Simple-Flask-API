@@ -1,7 +1,7 @@
 # Simple-Flask-API
  >An ultra simple flask API template. It returns static JSON, and was made as a first experiment with flask.
 
-This API was built using Python and Flask. 
+This API was built using Python and Flask. It uses as an example a static to do list in JSON format.
 
 ![](header.png)
 
