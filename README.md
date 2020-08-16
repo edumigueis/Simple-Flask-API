@@ -26,7 +26,7 @@ flask run
 
 ## Usage example
 
-This is just a slim and simple template that can be used as a starter to your flask project. Any changes can be made as you wish. This is a simple application so that any other flask API can grow from. So, if you want an API that gives you static data back, it's a great starter. Or, if you would like to add database, it can be easily done in this template.
+This is just a slim and simple template that can be used as a starter to your flask project. Any changes can be made as you wish. This is a simple application so that any other flask API can grow from. So, if you want an API that returns static data back, it's a great starter. Or, if you would like to add a database, it can be easily done in this template.
 
 ## Meta
 
